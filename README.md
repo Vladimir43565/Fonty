@@ -1,4 +1,4 @@
-Fonty - Word
+Fonty – for Microsoft Word
 The easiest way to add custom fonts to Microsoft Word.
 
 Fonty - Word is a lightweight Python utility designed to bypass the manual, multi-step process of installing fonts on Windows. It allows you to select a font and automatically handles the directory placement, registry registration, and system notification required for Word to recognize it.
