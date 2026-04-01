@@ -13,11 +13,11 @@ Modern Interface: Built with a clean, dark-mode GUI using CustomTkinter.
 System Integration: Uses Windows API calls to notify the OS of font changes without requiring a full system reboot.
 
 How to Use
-Run the App: Open Fonty-Word.exe (or run the script via Python).
+Run the App: Open Fonty.py 
 
 Select Font: Click the Select .ttf or .otf Font button.
 
-Install: Choose your font file (e.g., Minecraft.ttf).
+Install: Choose your font file (e.g., Fonty.ttf).
 
 Restart Word: When prompted, click Yes to let Fonty restart Microsoft Word for you.
 
