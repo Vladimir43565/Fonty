@@ -31,3 +31,5 @@ Done — font appears in Word
 ⚠️ Note
 
 Make sure your work in Word is saved before restarting.
+
+for more updates join https://discord.gg/tKJjqqmtds
