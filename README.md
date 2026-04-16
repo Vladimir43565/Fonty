@@ -27,3 +27,7 @@ Open Fonty
 Select a .ttf or .otf file
 Click install
 Done — font appears in Word
+
+⚠️ Note
+
+Make sure your work in Word is saved before restarting.
